@@ -13,7 +13,8 @@
  *
  *  You should have received a copy of the GNU General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */package com.jdom.util.collections;
+ */
+package com.jdom.util.collections;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -21,7 +22,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 public class CollectionsUtil {
 

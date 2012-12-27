@@ -13,7 +13,8 @@
  *
  *  You should have received a copy of the GNU General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */package com.jdom.util.properties;
+ */
+package com.jdom.util.properties;
 
 import java.io.ByteArrayInputStream;
 import java.io.File;
@@ -32,7 +33,7 @@ import java.util.Properties;
 import java.util.Set;
 
 import org.apache.commons.io.IOUtils;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 public final class PropertiesUtil {
 
