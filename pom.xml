@@ -4,10 +4,10 @@
 	<parent>
 		<groupId>com.jdom</groupId>
 		<artifactId>base.pom</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.2</version>
 	</parent>
 	<artifactId>util.lang</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4</version>
 	<description>Common language utilities</description>
 
 	<dependencies>
@@ -18,10 +18,6 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>com.google.guava</groupId>
-			<artifactId>guava</artifactId>
 		</dependency>
 
 		<!-- Test Dependencies -->
